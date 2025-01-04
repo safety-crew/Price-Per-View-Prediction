@@ -1,4 +1,3 @@
-# Price-Per-View-Prediction
 # Important Notes:
 - Better to be launched via Google CoLab.
 - If launched through Google CoLab, upload the `.xlsx` file first.
